@@ -1,0 +1,1 @@
+USB Target: 1, Distance: 1.43 m, Velocity: -3.1 m/s, SNR: 11.9 dBUSB Target: 1, Distance: 1.43 m, Velocity: -10.4 m/s, SNR: 13.6 dBUSB Target: 1, Distance: 2.40 m, Velocity: -0.6 m/s, SNR: 19.2 dBUSB Target: 2, Distance: 3.81 m, Velocity: 0.0 m/s, SNR: 14.6 dB
